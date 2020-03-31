@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class Good_One {
+public class GoodOne_Test {
 	@Test
 	public  void mainl() {
 
