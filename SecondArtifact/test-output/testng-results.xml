@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20768" started-at="2020-03-31T13:31:11Z" finished-at="2020-03-31T13:31:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20768" started-at="2020-03-31T13:31:11Z" finished-at="2020-03-31T13:31:32Z">
+      <class name="Second.SecondArtifact.Good_One">
+        <test-method status="PASS" signature="mainl()[pri:0, instance:Second.SecondArtifact.Good_One@18be83e4]" name="mainl" duration-ms="20554" started-at="2020-03-31T13:31:11Z" finished-at="2020-03-31T13:31:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainl -->
+      </class> <!-- Second.SecondArtifact.Good_One -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
